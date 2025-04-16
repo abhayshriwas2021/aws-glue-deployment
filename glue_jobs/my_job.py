@@ -14,3 +14,4 @@ job.init(args['JOB_NAME'], args)
 print("✅ This Glue Job was deployed using GitHub Actions!")
 
 job.commit()
+# Triggering CI/CD redeploy
